@@ -10,6 +10,7 @@
 
 Linux:
 `source env/bin/activate`
+
 Windows:
 `env/Scripts/activate.bat`
 
